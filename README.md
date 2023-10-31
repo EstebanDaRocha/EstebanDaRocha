@@ -15,15 +15,15 @@ UnrealEngine <br>
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/Genshin.jpg">
+	<a 
+  		<img src="https://github.com/EstebanDaRocha/EstebanDaRocha/blob/main/Games/Genshin.jpg">
 	</a>
-	</td>
+  </td>
   <td>
 	<a href="https://www.labyrinthinegame.com/">
   		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/RocketLeage.jpg">
 	</a>
-	</td>
+  </td>
   </tr>
   <tr>
   <td>
