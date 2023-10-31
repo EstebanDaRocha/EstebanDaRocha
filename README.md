@@ -8,45 +8,34 @@ GitHub <br>
 Premiere <br>
 Maya <br>
 Max <br>
-UnrealEngine <br>
+UnrealEngine <br> <br> <br>
 
 ## Aqui cosas que suelo jugar en mis ratos libres
 
 <table style="width:100%">
   <tr>
-  <td>
-	<a 
-  		<img src="https://github.com/EstebanDaRocha/EstebanDaRocha/blob/main/Games/Genshin.jpg">
-	</a>
-  </td>
-  <td>
-	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/RocketLeage.jpg">
-	</a>
-  </td>
+  	<td>
+  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/main/Games/Genshin.jpg">
+  	</td>
+  	<td>
+  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/main/Games/RocketLeage.jpg">
+	</td>
   </tr>
+	
   <tr>
-  <td>
-	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/Terraria.jpg">
-	</a>
+  	<td>
+  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/main/Games/Terraria.jpg">
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/Valorant.jpg">
-	</a>
+  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/main/Games/Valorant.jpg">
 	</td>
-	</td>
-    </tr>
-    <tr>
-    <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/VRising.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/Games/Warframe.jpg">
-	</a>
   </tr>
+
+  <tr>
+    	<td>
+  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/main/Games/VRising.jpg" width=105%>
+	</td>
+	<td>
+  		<img src="https://raw.githubusercontent.com/EstebanDaRocha/EstebanDaRocha/main/Games/Warframe.jpg">
+  	</tr>
 </table>
